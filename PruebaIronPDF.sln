@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaIronPDF", "PruebaIronPDF.csproj", "{098FBE32-0559-4FB7-B340-272582D8FDC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{098FBE32-0559-4FB7-B340-272582D8FDC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{098FBE32-0559-4FB7-B340-272582D8FDC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{098FBE32-0559-4FB7-B340-272582D8FDC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{098FBE32-0559-4FB7-B340-272582D8FDC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A755BDB2-C6FA-401B-B287-F787E0B3A550}
+	EndGlobalSection
+EndGlobal
