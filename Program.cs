@@ -1,10 +1,5 @@
 ﻿using PruebaIronPDF;
-string basePath = "";
-#if DEBUG
-basePath = @"C:\Users\sflor\Desarrollo\IronPDF\PruebaIronPDF";
-#else
-basePath = @$"{Directory.GetCurrentDirectory()}";
-#endif
+string basePath = @$"{Directory.GetCurrentDirectory()}";
 
 string inputPath = $@"{basePath}\Input";
 string outputPath = $@"{basePath}\Output";
